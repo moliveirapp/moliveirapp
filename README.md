@@ -4,10 +4,14 @@ Formado em Sistemas de Informação, apaixonado por tecnologia e entusiasta em d
 
 ## Sobre Mim
 
-- 🎓 Formado em Sistemas de Informação
-- 💻 Conhecimentos web em HTML, JavaScript, CSS, PHP, MySQL, PostgreSQL.
-- 🤖 Experiência em projetos com Arduino Uno e Mega.
-- 🖨️ Fanático por impressão 3D e criação de objetos personalizados.
+- 🎓 Formado em Sistemas de Informação.
+- 👨‍🏫 Professor no SENAI SP.
+- 💻 Conhecimentos em web development: HTML, JavaScript, CSS, PHP, MySQL, PostgreSQL.
+- 🤖 Trabalho com projetos envolvendo Arduino Uno e Mega.
+- 🖨️ Apaixonado por impressão 3D, com alguns modelos criados no SketchUp e Fusion 360.
+- 🎸 Toco violão nas horas vagas.
+- 🎮 Jogador de Dota 2 (Mid lane que passa raiva 😅).
+- 🐛 Estudante de Bug Bounty.
 
 ## Projetos
 
