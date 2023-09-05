@@ -1,4 +1,4 @@
-# Olá, eu sou Matheus Oliveira 👋
+# Olá, eu sou o Matheus Oliveira 👋
 
 Formado em Sistemas de Informação, apaixonado por tecnologia e entusiasta em diversas áreas da computação. Tenho experiência em desenvolvimento web e também gosto de explorar projetos relacionados a Arduino e impressão 3D.
 
