@@ -12,7 +12,7 @@ Formado em Sistemas de Informação, apaixonado por tecnologia e entusiasta em d
 - 🎸 Toco violão nas horas vagas.
 - 🎮 Jogador de Dota 2 (Mid lane que passa raiva 😅).
 - 🐛 Estudante de Bug Bounty.
-- 🎸 Dupla: Kauã e Matheus.
+
 
 ## Projetos
 
