@@ -6,7 +6,8 @@ Formado em Sistemas de Informação, apaixonado por tecnologia e entusiasta em d
 
 - 🎓 Formado em Sistemas de Informação.
 - 👨‍🏫 Professor no SENAI SP.
-- 💻 Conhecimentos em web development: HTML, JavaScript, CSS, PHP, MySQL, PostgreSQL.
+- 💻 Conhecimentos em web development: HTML, JavaScript, CSS, PHP, MySQL, PostgreSQL, NodeJS, Python.
+- 💻 Conhecimentos em App: React Native + Expo Go.
 - 🤖 Trabalho com projetos envolvendo Arduino Uno e Mega.
 - 🖨️ Apaixonado por impressão 3D, com alguns modelos criados no SketchUp e Fusion 360.
 - 🎸 Toco violão nas horas vagas.
